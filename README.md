@@ -342,3 +342,4 @@
 - [The Age of A.I. | Official Trailer](https://youtu.be/5IvQ3fYKnfM?si=aVpJh22C_djYWRrp)
 - [Basics of Computational Reinforcement Learning](https://videolectures.net/videos/rldm2015_littman_computational_reinforcement)
 - [Deep Reinforcement Learning](https://videolectures.net/videos/rldm2015_silver_reinforcement_learning)
+- [Fei-Fei Li: Resimleri anlamaları için bilgisayarları nasıl eğitiyoruz](https://youtu.be/40riCqvRoMs?si=CpRr6rz_hffhl19E)
