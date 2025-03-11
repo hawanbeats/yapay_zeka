@@ -1,6 +1,141 @@
 # Yapay Zeka
 ## Yapay Zekada karşılaşılabilecek tüm kavramlar
 
+**Artificial General Intelligence (AGI)**
+- İnsan gibi düşünebilen ve farklı görevleri yerine getirebilen gelişmiş yapay zeka.
+
+**Artificial Narrow Intelligence (ANI)**
+- Tek bir görevi yerine getiren yapay zeka (örneğin, sesli asistanlar).
+
+**Artificial Super Intelligence (ASI)**
+- İnsandan daha zeki olabilecek teorik yapay zeka.
+
+**Neural Architecture Search (NAS)**
+- Sinir ağlarını otomatik olarak tasarlayan yapay zeka yöntemi.
+
+**Self-Supervised Learning**
+- Modelin kendi kendine veri etiketleyerek öğrenmesi.
+
+**Few-Shot Learning**
+- Az miktarda veriyle öğrenen yapay zeka modeli.
+
+**Zero-Shot Learning**
+- Daha önce görmediği şeyleri anlayabilen yapay zeka.
+
+**One-Shot Learning**
+- Sadece bir örnekten öğrenebilen yapay zeka.
+
+**Federated Learning**
+- Merkezi sunucuya veri göndermeden yapay zeka modelini eğitme yöntemi.
+
+**Edge AI**
+- Yapay zekanın bulut yerine cihaz üzerinde çalışması.
+
+**Swarm Learning**
+- Farklı yapay zeka modellerinin birlikte öğrenmesi.
+
+**Graph Neural Networks (GNNs)**
+- Verileri grafik yapısı üzerinden işleyen sinir ağları.
+
+**Neuro-Symbolic AI**
+- Yapay zeka algoritmalarını mantıksal kurallarla birleştirme.
+
+**Multimodal Learning**
+- Farklı veri türlerini (görüntü, metin, ses) bir arada işleyebilen yapay zeka.
+
+**Contrastive Learning**
+- Benzer ve farklı örnekleri kıyaslayarak öğrenme.
+
+**Adversarial Attacks**
+- Modeli kandırmak için kullanılan saldırı yöntemleri.
+
+**Explainable AI (XAI)**
+- Yapay zekanın nasıl çalıştığını açıklamaya yönelik teknikler.
+
+**Bayesian Optimization**
+- Hiperparametre ayarlarını optimize eden bir teknik.
+
+**Neuroevolution**
+- Doğal evrim süreçlerini kullanarak sinir ağlarını geliştirme.
+
+**Reinforcement Learning from Human Feedback (RLHF)**
+- İnsan geri bildirimleriyle eğitilen pekiştirmeli öğrenme modeli (ChatGPT’de kullanılır).
+
+**Transformer Models**
+- Dil modellerinin temelini oluşturan mimari (BERT, GPT gibi).
+
+**Tokenization**
+- Metni küçük parçalara (kelime veya harf gruplarına) ayırma işlemi.
+
+**Self-Attention Mechanism**
+- Modelin hangi verilere odaklanacağını belirleyen teknik.
+
+**Hyperparameter Optimization**
+- Modelin en iyi çalışmasını sağlamak için parametreleri ayarlama.
+
+**Knowledge Graphs**
+- Bilgiyi düğümler ve bağlantılar halinde organize eden sistem.
+
+**Latent Space**
+- Verilerin sıkıştırıldığı gizli temsili uzay.
+
+**Feature Extraction**
+- Modelin en önemli özellikleri çıkarması.
+
+**Synthetic Data**
+- Gerçek veriye benzer, yapay olarak üretilmiş veri.
+
+**Sim-to-Real Transfer**
+- Simülasyonda eğitilmiş bir modelin gerçek dünyada kullanılması.
+
+**Causal Inference**
+- Neden-sonuç ilişkilerini analiz eden yapay zeka yöntemi.
+
+**Manifold Learning**
+- Yüksek boyutlu veriyi daha basit bir forma indirgeyen teknik.
+
+**Quantum Machine Learning**
+- Kuantum bilgisayarları kullanarak yapay zeka modelleri geliştirme.
+
+**Sparse Modeling**
+- Daha az veriyle çalışan modeller geliştirme yöntemi.
+
+**Attention Heads**
+- Transformer modellerinde kelimeler arasındaki ilişkileri analiz eden mekanizmalar.
+
+**Gradient Clipping**
+- Büyük hata oranlarını sınırlayarak modelin stabil kalmasını sağlama.
+
+**Perceptron**
+- En basit sinir ağı modeli.
+
+**Knowledge Distillation**
+- Büyük bir modeli daha küçük ve verimli bir hale getirme tekniği.
+
+**Ontology in AI**
+- Yapay zekanın bilgiyi anlamlandırması için kullanılan sistemler.
+
+**ResNet (Residual Networks)**
+- Derin sinir ağlarında öğrenmeyi kolaylaştıran bir model türü.
+
+**CapsNet (Capsule Networks)**
+- Geleneksel sinir ağlarından daha iyi nesne tanıma yapabilen bir yapı.
+
+**Heterogeneous Learning**
+- Farklı veri türlerini aynı anda işleyebilen yapay zeka.
+
+**Semi-Supervised Learning**
+- Hem etiketli hem de etiketsiz verilerle öğrenme yöntemi.
+
+**Lifelong Learning**
+- Modelin sürekli öğrenmesini sağlayan teknik.
+
+**Memory-Augmented Neural Networks (MANNs)**
+- Öğrenilen bilgileri uzun süre saklayabilen sinir ağları.
+
+**Graph Attention Networks (GATs)**
+- Graf verileriyle çalışan gelişmiş sinir ağları.
+
 **Machine Learning Basics (Makine Öğrenmesi Temelleri)**
 - Makine öğrenmesi, bilgisayarların veriden öğrenmesini sağlayan bir yöntemdir. İnsan gibi öğrenmezler, örneklerden ders çıkararak karar verirler.
 
