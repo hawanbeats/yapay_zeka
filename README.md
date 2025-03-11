@@ -1,5 +1,11 @@
 # Yapay Zeka
-## Yapay Zekada karşılaşılabilecek tüm kavramlar
+## İçindekiler
+1. [Kavramlar](#kavramlar)
+2. [Araçlar](#araçlar)
+3. [Kurslar](#kurslar)
+4. [Kitaplar](#kitaplar)
+5. [Videolar](#videolar)
+## Kavramlar
 
 **Artificial General Intelligence (AGI)**
 - İnsan gibi düşünebilen ve farklı görevleri yerine getirebilen gelişmiş yapay zeka.
@@ -136,7 +142,7 @@
 **Graph Attention Networks (GATs)**
 - Graf verileriyle çalışan gelişmiş sinir ağları.
 
-**Machine Learning Basics (Makine Öğrenmesi Temelleri)**
+**Machine Learning**
 - Makine öğrenmesi, bilgisayarların veriden öğrenmesini sağlayan bir yöntemdir. İnsan gibi öğrenmezler, örneklerden ders çıkararak karar verirler.
 
 **Generative Adversarial Networks (GANs)**
@@ -330,3 +336,127 @@
 
 **AI Deployment Strategies**
 - Yapay zekanın gerçek hayatta nasıl kullanılacağı.
+
+## Araçlar
+### Makine Öğrenmesi ve Derin Öğrenme Araçları
+- [TensorFlow](https://www.tensorflow.org/?hl=tr) – Google tarafından geliştirilen açık kaynaklı makine öğrenmesi kütüphanesi.
+- [PyTorch](https://pytorch.org/) – Facebook tarafından geliştirilen, esnek ve güçlü bir derin öğrenme kütüphanesi.
+- [Scikit-Learn](https://scikit-learn.org/stable/) – Makine öğrenmesi için temel algoritmaları içeren Python kütüphanesi.
+- [Keras](https://keras.io/) – TensorFlow ile entegre çalışan, kolay kullanımlı derin öğrenme API’si.
+- [Hugging Face Transformers](https://huggingface.co/) – Doğal dil işleme (NLP) için önceden eğitilmiş transformer modelleri.
+
+### Doğal Dil İşleme (NLP) Araçları
+- [NLTK](https://www.nltk.org/) (Natural Language Toolkit) – NLP için klasik metin işleme araçları.
+- [BERT](https://huggingface.co/docs/transformers/model_doc/bert) (Google) – Doğal dil anlamlandırma için güçlü bir transformer modeli.
+- [Word2Vec](https://en.wikipedia.org/wiki/Word2vec#:~:text=Word2vec%20is%20a%20technique%20in,text%20in%20a%20large%20corpus.) – Kelimeleri vektörlere dönüştüren algoritma.
+- [Gensim](https://en.wikipedia.org/wiki/Gensim) – Konu modelleme ve kelime gömme (word embedding) için kullanılan kütüphane.
+- [spaCy](https://spacy.io/) – Hızlı ve modern doğal dil işleme kütüphanesi.
+
+### Bilgisayarla Görme (Computer Vision) Araçları
+- [OpenCV](https://opencv.org/get-started/) – Görüntü işleme ve analiz için yaygın kullanılan kütüphane.
+- [YOLO](https://github.com/ultralytics/ultralytics) (You Only Look Once) – Gerçek zamanlı nesne algılama modeli.
+- [Dlib](https://github.com/davisking/dlib) – Yüz tanıma ve özellik tespiti için kullanılan bir kütüphane.
+- [MediaPipe](https://github.com/google-ai-edge/mediapipe) – Google tarafından geliştirilen, el ve yüz tanıma gibi uygulamalar için kullanılan kütüphane.
+- [ResNet](https://github.com/facebookresearch/detectron2) – Derin sinir ağlarında yaygın olarak kullanılan bir görüntü işleme modeli.
+
+### Büyük Dil Modelleri (LLMs) ve Chatbot Platformları
+- [OpenAI API](chat.openai.com/chat) (GPT-4, ChatGPT) – Gelişmiş dil modelleriyle metin üretme ve sohbet robotları.
+- [Claude](https://claude.ai/new) – OpenAI’nin rakibi olan, etik odaklı büyük dil modeli.
+- [Google Gemini](https://gemini.google.com/app?hl=tr) (Bard) – Google’ın büyük dil modeli.
+- [DeepSeek AI](https://chat.deepseek.com/) – Çin merkezli büyük dil modelleri.
+- [Mistral AI](https://chat.mistral.ai/chat) – Hafif ve güçlü büyük dil modelleri geliştiren platform.
+
+### AI Destekli Kodlama ve Geliştirme Araçları
+- [GitHub Copilot](https://github.com/features/copilot) – AI destekli kod tamamlama aracı.
+- [Tabnine](https://www.tabnine.com/) – AI destekli kod önerme motoru.
+- [Codeium](https://codeium.com/) – Ücretsiz yapay zeka destekli kod yazma aracı.
+- [Cursor](https://www.cursor.com/) – AI Kod Editörü
+
+### AI Destekli Görüntü ve Video Üretme Araçları
+- [DALL·E](https://openai.com/index/dall-e-3/) (OpenAI) – Yapay zeka ile görüntü üreten model.
+- [Stable Diffusion](https://stability.ai/) – Açık kaynaklı AI tabanlı görsel üretme aracı.
+- [Midjourney](https://www.midjourney.com/) – Sanatsal AI görselleri oluşturan platform.
+- [Runway ML](https://runwayml.com/) – AI destekli video düzenleme ve efekt üretme aracı.
+
+### AI Destekli Ses ve Müzik Üretme Araçları
+- [OpenAI Jukebox](https://openai.com/index/jukebox/) – Yapay zeka ile müzik üretme modeli.
+- [AIVA](https://www.aiva.ai/) – AI destekli müzik besteleme aracı.
+- [ElevenLabs](https://elevenlabs.io/) – Gelişmiş AI tabanlı ses sentezi ve klonlama platformu.
+- [Descript](https://www.descript.com/) – Ses düzenleme ve AI tabanlı ses üretme aracı.
+- [Suno](https://suno.com/home) – 
+
+### AI Destekli Veri Analizi ve Görselleştirme Araçları
+- [Tableau AI](https://www.tableau.com/) – AI destekli veri analizi ve görselleştirme.
+- [Power BI AI](https://www.microsoft.com/tr-tr/power-platform/products/power-bi) – Microsoft’un AI destekli veri görselleştirme aracı.
+- [Pandas AI](https://github.com/sinaptik-ai/pandas-ai) – Pandas kütüphanesinin AI ile geliştirilmiş versiyonu.
+- [Google Vertex AI](https://cloud.google.com/vertex-ai?hl=tr) – Büyük veri analizi için AI destekli araç.
+
+### Diğer AI Araçları
+- [Sitekick](https://www.sitekick.ai/) – Web sitesi tasarlamak için yapay zeka destekli bir araç. Kod yazmadan hızlıca web sayfaları oluşturmanı sağlar.
+- [Quillbot](https://quillbot.com/) – Metinleri yeniden yazma, özetleme ve yazım denetimi yapabilen AI destekli yazma aracı.
+- [AutoSummarizer](https://autosummarizer.com/) – Uzun metinleri kısaltarak özet çıkartan bir yapay zeka aracı.
+- [123Apps](https://123apps.com/) – Çevrimiçi olarak video, ses ve PDF düzenleme araçları sunan bir platform.
+- [Canva AI](https://www.canva.com/) – Tasarım yapmak için yapay zeka destekli araçlar sunar. Görseller, sosyal medya gönderileri ve sunumlar hazırlamak için kullanılır.
+- [Flourish Studio](https://flourish.studio/) – Veri görselleştirme ve interaktif grafikler oluşturmak için kullanılan bir araç.
+- [Tome App](https://tome.app/) – Yapay zeka destekli sunum ve hikâyeleştirme aracı. İçerik üretimi ve slayt hazırlama sürecini kolaylaştırır.
+- [Gamma App](https://gamma.app/) – AI destekli sunum, doküman ve web sayfası oluşturma platformu.
+- [Rask AI](https://www.rask.ai/) – Videoların dublajını ve çevirisini yapan bir AI aracı.
+- [GoodDub](https://www.gooddub.ai/tr/) – AI ile video dublajı yapmanı sağlayan bir araç.
+- [Designer Microsoft](https://designer.microsoft.com/) – Microsoft’un AI destekli grafik ve tasarım aracı.
+- [Futurepedia](https://www.futurepedia.io/) – Yapay zeka ile ilgili en güncel araçları ve gelişmeleri listeleyen bir platform.
+- [MySports AI](https://mysports.ai/en) – Spor verilerini analiz eden ve tahminlerde bulunan yapay zeka platformu.
+- [Character AI](https://character.ai/) – AI ile karakterler oluşturup onlarla sohbet etmeye yarayan bir platform. RPG tarzı hikâye anlatımı için popülerdir.
+- [Eleuther AI](https://www.eleuther.ai/) – Açık kaynaklı büyük dil modelleri geliştiren bir AI araştırma grubu.
+- [Flux AI](https://www.flux.ai/p) – AI destekli yazılım geliştirme ve prototipleme aracı.
+- [Ideogram](https://ideogram.ai/t/explore) – AI ile yaratıcı yazı ve tipografi tasarlama aracı.
+- [Suno AI](https://suno.com/home) – AI ile müzik üretmek için kullanılan bir araç.
+- [Flowise AI](https://flowiseai.com/) – Düşük kod (low-code) ile yapay zeka tabanlı iş akışları oluşturmayı sağlayan bir platform.
+- [AudioRead](https://audioread.com/) – Metinleri sesli kitaba çeviren AI destekli bir araç.
+- [GitMind](https://gitmind.com/) – AI destekli zihin haritası (mind mapping) ve beyin fırtınası aracı.
+- [Taskade](https://www.taskade.com/) – AI destekli not alma, proje yönetimi ve işbirliği platformu.
+- [SeaArt AI](https://www.seaart.ai/tr) – AI ile sanat eserleri ve görseller oluşturmayı sağlayan bir platform.
+- [Lucidpic](https://lucidpic.com/) – AI ile fotogerçekçi insan yüzleri üreten bir araç.
+- [Pebblely](https://pebblely.com/) – E-ticaret için ürün görsellerini otomatik olarak düzenleyen AI destekli bir araç.
+- [TryLeap AI](https://www.tryleap.ai/) – Görseller ve metinlerden AI destekli içerik üretme platformu.
+- [HeyGen AI](https://www.heygen.com/) – AI destekli video üretme ve konuşan avatarlar oluşturma platformu.
+- [Topview AI](https://www.topview.ai/) – AI ile trend analizleri ve sosyal medya verilerini analiz eden bir platform.
+- [Fliki AI](https://fliki.ai/) – Metinleri AI kullanarak sesli videolara çeviren bir araç.
+- [Convergence AI](https://convergence.ai/) – AI destekli veri analizi ve iş süreçleri optimizasyonu için kullanılan bir araç.
+- [Hyperwrite](https://app.hyperwriteai.com/personalassistant) – AI destekli içerik üretme ve yazı yazma aracı.
+- [TempoLabs](https://www.tempo.new/) – AI destekli finans ve yatırım analizleri yapan bir platform.
+- [Lovable](https://lovable.dev/) – Markalar için AI destekli duygusal pazarlama çözümleri sunan bir platform.
+- [Mobbin](https://mobbin.com/) – Mobil UI/UX tasarımlarını keşfetmek için kullanılan AI destekli bir platform.
+- [Relevance AI](https://relevanceai.com/) – Veri analizi, müşteri içgörüleri ve AI tabanlı kişiselleştirilmiş öneri sistemleri geliştirmek için kullanılan bir platform.
+
+## Kurslar
+- [AI For Beginners (Microsoft)](https://microsoft.github.io/AI-For-Beginners/)
+- [Intro To Machine Learning (Developers Google)](https://developers.google.com/machine-learning/intro-to-ml?hl=tr)
+- [AI For Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
+- [AI Python For Beginners (DeepLearning AI)](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/z57gn/introduction?courseName=ai-python-for-beginners)
+- [Introduction to AI and Machine Learning (Google Cloud)](https://www.cloudskillsboost.google/course_templates/593)
+- [CS50’s Introduction to Artificial Intelligence with Python (Harvard)](https://cs50.harvard.edu/ai/2024/weeks/0/)
+
+## Kitaplar
+### Ücretsiz
+- [Cem Say - 50 Soruda Yapay Zeka](https://www.uguryuce.com.tr/kitaplar/yapayzeka.pdf)
+- [Yapay Zeka Uygulamaları (Öğretmen El Kitabı)](https://dogmprojeler.meb.gov.tr/upload/feyza/YapayZeka.pdf)
+- [Yapay Zeka ve Makine Öğrenmesi](https://www.researchgate.net/profile/Murat-Altun/publication/363014361_Yapay_Zeka_ve_Makine_Ogrenmesi/links/63879a9bbbdef30dc9878267/Yapay-Zeka-ve-Makine-Oegrenmesi.pdf)
+- [Eğitimde Kullanılan Yapay Zeka Araçları](https://yegitek.meb.gov.tr/meb_iys_dosyalar/2024_07/12172521_meb_nek_yapay_zek_araclari_12072024_web.pdf)
+- [Ray Kurzweil - İnsanlık 2.0](https://bil184471049.wordpress.com/wp-content/uploads/2020/05/ray-kurzweil-c4b0nsanlc4b1k-2.0-tekillic49fe-doc49fru-biyolojisini-ac59fan-c4b0nsan-alfa-2016.pdf)
+- [Stuart Russell & Peter Norvig - Artificial Intelligence: A Modern Approach](https://github.com/anishLearnsToCode/books/blob/master/artificial-intelligence/artificial-intelligence-a-modern-approach.pdf)
+- [Aston Zhang - Dive Into Deep Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/Deep-learning/d2l-en.pdf)
+
+### Ücretli
+- [Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak]
+- [Nick Bostrom - Süper Zekâ: Yapay Zekâ Uygulamaları, Tehlikeler ve Stratejiler]
+- [Harvard Business Review - Yapay Zekâ: Dijital Dönüşüm]
+- [Viktor Dörfler - Yöneticiler İçin Yapay Zekâ]
+
+## Videolar
+- ['Yapay Zeka' Nedir? - Çok İlginç Örneklerle](https://youtu.be/D0NTkVrWG4Q?si=ONJXjlKbnCU7i7Ru)
+- [Slaughterbots](https://youtu.be/9CO6M2HsoIA?si=NRaHxSs0vN4_Pu1X)
+- [Humans Need Not Apply](https://youtu.be/7Pq-S557XQU?si=DNALKNVPRCbtZT2H)
+- [How Far is Too Far? | The Age of A.I.](https://youtu.be/UwsrzCVZAb8?si=tLQzDlKpm43ADzwm)
+- [The Age of A.I. | Official Trailer](https://youtu.be/5IvQ3fYKnfM?si=aVpJh22C_djYWRrp)
+- [Basics of Computational Reinforcement Learning](https://videolectures.net/videos/rldm2015_littman_computational_reinforcement)
+- [Deep Reinforcement Learning](https://videolectures.net/videos/rldm2015_silver_reinforcement_learning)
