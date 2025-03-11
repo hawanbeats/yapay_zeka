@@ -1,10 +1,15 @@
 # Yapay Zeka
 ## İçindekiler
-1. [Kavramlar](#kavramlar)
-2. [Araçlar](#araçlar)
-3. [Kurslar](#kurslar)
-4. [Kitaplar](#kitaplar)
-5. [Videolar](#videolar)
+1. [Resimler](#resimler)
+2. [Kavramlar](#kavramlar)
+3. [Araçlar](#araçlar)
+4. [Kurslar](#kurslar)
+5. [Kitaplar](#kitaplar)
+6. [Videolar](#videolar)
+
+## Resimler
+<img src="https://github.com/user-attachments/assets/8fceab3d-ae69-4fe2-8834-75c53b223df0" width="400">
+
 ## Kavramlar
 
 **Artificial General Intelligence (AGI)** - İnsan gibi düşünebilen ve farklı görevleri yerine getirebilen gelişmiş yapay zeka.
