@@ -1,1 +1,1 @@
-# yapay_zeka
+# Yapay Zeka
