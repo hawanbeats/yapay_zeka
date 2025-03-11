@@ -1,4 +1,6 @@
 # Yapay Zeka
+## Yapay Zekada karşılaşılabilecek tüm kavramlar
+
 **Machine Learning Basics (Makine Öğrenmesi Temelleri)**
 - Makine öğrenmesi, bilgisayarların veriden öğrenmesini sağlayan bir yöntemdir. İnsan gibi öğrenmezler, örneklerden ders çıkararak karar verirler.
 
