@@ -268,7 +268,7 @@
 **Monte Carlo Methods**
 - Rastgele yöntemlerle tahmin yapar.
 
-**Natural Language Understanding**
+**Natural Language Processing (NLP)**
 - Bilgisayarların dili anlaması.
 
 **Speech Recognition**
