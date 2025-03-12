@@ -176,8 +176,6 @@
 
 **Attention Mechanisms** - Modelin önemli noktalara odaklanmasını sağlar.
 
-**Transformers** - ChatGPT gibi büyük dil modellerinin temelini oluşturur.
-
 **Capsule Networks** - Daha iyi görsel analiz yapar.
 
 **AI Explainability** - Modelin nasıl çalıştığını açıklama.
