@@ -11,6 +11,7 @@
 ## Dallar
 
 ## Resimler
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*NutNzdxd4NXZxBfz.png" width="400">
 <img src="https://github.com/user-attachments/assets/8fceab3d-ae69-4fe2-8834-75c53b223df0" width="400">
 <img src="https://github.com/user-attachments/assets/5d58d3ee-5900-43ea-99ac-f99ce6ee21db" width="400">
 <img src="https://github.com/user-attachments/assets/c94907a0-5b34-4bde-8585-3949e8d02d5f" width="400">
