@@ -1,11 +1,14 @@
 # Yapay Zeka
 ## İçindekiler
-1. [Resimler](#resimler)
-2. [Kavramlar](#kavramlar)
-3. [Araçlar](#araçlar)
-4. [Kurslar](#kurslar)
-5. [Kitaplar](#kitaplar)
-6. [Videolar](#videolar)
+1. [Dallar](#dallar)
+2. [Resimler](#resimler)
+3. [Kavramlar](#kavramlar)
+4. [Araçlar](#araçlar)
+5. [Kurslar](#kurslar)
+6. [Kitaplar](#kitaplar)
+7. [Videolar](#videolar)
+
+## Dallar
 
 ## Resimler
 <img src="https://github.com/user-attachments/assets/8fceab3d-ae69-4fe2-8834-75c53b223df0" width="400">
