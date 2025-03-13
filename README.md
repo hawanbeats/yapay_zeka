@@ -339,6 +339,7 @@
 - [Ray Kurzweil - İnsanlık 2.0](https://bil184471049.wordpress.com/wp-content/uploads/2020/05/ray-kurzweil-c4b0nsanlc4b1k-2.0-tekillic49fe-doc49fru-biyolojisini-ac59fan-c4b0nsan-alfa-2016.pdf)
 - [Stuart Russell & Peter Norvig - Artificial Intelligence: A Modern Approach](https://github.com/anishLearnsToCode/books/blob/master/artificial-intelligence/artificial-intelligence-a-modern-approach.pdf)
 - [Aston Zhang - Dive Into Deep Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/Deep-learning/d2l-en.pdf)
+- [François Chollet - Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
 
 ### Ücretli
 - Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak
