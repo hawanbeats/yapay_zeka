@@ -22,9 +22,9 @@
 
 **Neural Architecture Search (NAS)** - Sinir ağlarını otomatik olarak tasarlayan yapay zeka yöntemi.
 
-**Supervised Learning** - Modelin kendi kendine veri etiketleyerek öğrenmesi.
+**Supervised Learning (Denetimli Öğrenme)** - Modelin kendi kendine veri etiketleyerek öğrenmesi.
 
-**Unsupervised Learning** - Veri setinde etiket bulunmadan yapılan öğrenme yöntemi.
+**Unsupervised Learning (Denetimsiz Öğrenme)** - Veri setinde etiket bulunmadan yapılan öğrenme yöntemi.
 
 **Few-Shot Learning** - Az miktarda veriyle öğrenen yapay zeka modeli.
 
