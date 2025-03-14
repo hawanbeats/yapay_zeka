@@ -65,6 +65,8 @@
 
 **Hyperparameter Optimization** - Modelin en iyi çalışmasını sağlamak için parametreleri ayarlama.
 
+**Translational Invariance** - Sistem, girişinin nasıl kaydırıldığına bakılmaksızın tam olarak aynı yanıtı üretir.
+
 **Knowledge Graphs** - Bilgiyi düğümler ve bağlantılar halinde organize eden sistem.
 
 **Latent Space** - Verilerin sıkıştırıldığı gizli temsili uzay.
