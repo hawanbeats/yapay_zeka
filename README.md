@@ -11,9 +11,9 @@
 ## Dallar
 
 ## Makaleler
-- [Makine Öğrenimi Eğlencelidir: 1. Kısım](https://medium.com/@ozgurs/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)
-- [Makine Öğrenimi Eğlencelidir: 2. Kısım](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)
-- [Makine Öğrenimi Eğlencelidir: 3. Kısım](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-3-k%C4%B1s%C4%B1m-2253856ad79c)
+- [Makine Öğrenimi Eğlencelidir: 1. Bölüm](https://medium.com/@ozgurs/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)
+- [Makine Öğrenimi Eğlencelidir: 2. Bölüm](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)
+- [Makine Öğrenimi Eğlencelidir: 3. Bölüm](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-3-k%C4%B1s%C4%B1m-2253856ad79c)
 
 
 ## Kavramlar
