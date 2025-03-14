@@ -1,13 +1,20 @@
 # Yapay Zeka
 ## İçindekiler
 1. [Dallar](#dallar)
-2. [Kavramlar](#kavramlar)
-3. [Araçlar](#araçlar)
-4. [Kurslar](#kurslar)
-5. [Kitaplar](#kitaplar)
-6. [Videolar](#videolar)
+2. [Yazılar](#makaleler)
+3. [Kavramlar](#kavramlar)
+4. [Araçlar](#araçlar)
+5. [Kurslar](#kurslar)
+6. [Kitaplar](#kitaplar)
+7. [Videolar](#videolar)
 
 ## Dallar
+
+## Makaleler
+- [Makine Öğrenimi Eğlencelidir: 1. Kısım](https://medium.com/@ozgurs/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)
+- [Makine Öğrenimi Eğlencelidir: 2. Kısım](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)
+- [Makine Öğrenimi Eğlencelidir: 3. Kısım](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-3-k%C4%B1s%C4%B1m-2253856ad79c)
+
 
 ## Kavramlar
 
