@@ -27,6 +27,8 @@
 
 **Neural Architecture Search (NAS)** - Sinir ağlarını otomatik olarak tasarlayan yapay zeka yöntemi.
 
+**Deep Neural Network (DNN)** - Giriş ve çıkış katmanları arasında birden fazla katman bulunan yapay sinir ağı.
+
 **Supervised Learning (Denetimli Öğrenme)** - Modelin kendi kendine veri etiketleyerek öğrenmesi.
 
 **Unsupervised Learning (Denetimsiz Öğrenme)** - Veri setinde etiket bulunmadan yapılan öğrenme yöntemi.
