@@ -1,21 +1,13 @@
 # Yapay Zeka
 ## İçindekiler
 1. [Dallar](#dallar)
-2. [Resimler](#resimler)
-3. [Kavramlar](#kavramlar)
-4. [Araçlar](#araçlar)
-5. [Kurslar](#kurslar)
-6. [Kitaplar](#kitaplar)
-7. [Videolar](#videolar)
+2. [Kavramlar](#kavramlar)
+3. [Araçlar](#araçlar)
+4. [Kurslar](#kurslar)
+5. [Kitaplar](#kitaplar)
+6. [Videolar](#videolar)
 
 ## Dallar
-
-## Resimler
-<img src="https://github.com/user-attachments/assets/6ff419dd-e1eb-451c-b976-9ae0e5c89da3" width="400" height="250">
-<img src="https://github.com/user-attachments/assets/ed6becb8-fab0-4090-a4f7-df390864c617" width="400" height="250">
-<img src="https://github.com/user-attachments/assets/5d58d3ee-5900-43ea-99ac-f99ce6ee21db" width="400" height="250">
-<img src="https://github.com/user-attachments/assets/c94907a0-5b34-4bde-8585-3949e8d02d5f" width="400" height="250">
-<img src="https://github.com/user-attachments/assets/79eb87dc-ec98-44bc-990e-497ac827c5b3" width="400" height="250">
 
 ## Kavramlar
 
