@@ -51,6 +51,8 @@
 
 **Contrastive Learning** - Benzer ve farklı örnekleri kıyaslayarak öğrenme.
 
+**Sliding Window Technique** - İki iç içe döngüyü tek bir döngüye dönüştürmek için tasarlanmış problem çözme tekniği.
+
 **Adversarial Attacks** - Modeli kandırmak için kullanılan saldırı yöntemleri.
 
 **Explainable AI (XAI)** - Yapay zekanın nasıl çalıştığını açıklamaya yönelik teknikler.
