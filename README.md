@@ -91,6 +91,8 @@
 
 **Perceptron** - En basit sinir ağı modeli.
 
+**Downsampling** - Bir veri kümesindeki veri örneklerinin sayısını azaltır.
+
 **Knowledge Distillation** - Büyük bir modeli daha küçük ve verimli bir hale getirme tekniği.
 
 **Ontology in AI** - Yapay zekanın bilgiyi anlamlandırması için kullanılan sistemler.
