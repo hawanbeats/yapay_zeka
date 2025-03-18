@@ -102,6 +102,8 @@
 
 **Knowledge Distillation** - Büyük bir modeli daha küçük ve verimli bir hale getirme tekniği.
 
+**Vector Data** - Nesnelerin bağlamını ve anlamını yakalayan yerleştirme biçimi.
+
 **Ontology in AI** - Yapay zekanın bilgiyi anlamlandırması için kullanılan sistemler.
 
 **ResNet (Residual Networks)** - Derin sinir ağlarında öğrenmeyi kolaylaştıran bir model türü.
