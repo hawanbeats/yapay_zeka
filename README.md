@@ -37,13 +37,13 @@
 
 **Artificial Super Intelligence (ASI)** - İnsandan daha zeki olabilecek teorik yapay zeka.
 
-**Neural Architecture Search (NAS)** - Sinir ağlarını otomatik olarak tasarlayan yapay zeka yöntemi.
-
 **Deep Neural Network (DNN)** - Giriş ve çıkış katmanları arasında birden fazla katman bulunan yapay sinir ağı.
 
 **Supervised Learning (Denetimli Öğrenme)** - Modelin kendi kendine veri etiketleyerek öğrenmesi.
 
 **Unsupervised Learning (Denetimsiz Öğrenme)** - Veri setinde etiket bulunmadan yapılan öğrenme yöntemi.
+
+**Large Language Model (LLM)**: Geniş metin verileri üzerinde eğitim alan AI modeli.
 
 **Few-Shot Learning** - Az miktarda veriyle öğrenen yapay zeka modeli.
 
@@ -51,7 +51,9 @@
 
 **One-Shot Learning** - Sadece bir örnekten öğrenebilen yapay zeka.
 
-**Federated Learning** - Merkezi sunucuya veri göndermeden yapay zeka modelini eğitme yöntemi.
+**Federated Learning (Collaborative Learning)** - Merkezi sunucuya veri göndermeden yapay zeka modelini eğitme yöntemi.
+
+**Generative Al** - Metin, resim vb. oluşturan AI.
 
 **Edge AI** - Yapay zekanın bulut yerine cihaz üzerinde çalışması.
 
@@ -215,6 +217,8 @@
 
 **Syntax Parsing** - Cümlelerin yapısını inceler.
 
+**Embedding** - Al için kelimelerin sayısal gösterimi.
+
 **Word Embeddings** - Kelimeleri sayısal hale getirir.
 
 **Attention Mechanisms** - Modelin önemli noktalara odaklanmasını sağlar.
@@ -260,12 +264,6 @@
 **Case-Based Reasoning** - Geçmiş deneyimlerden ders çıkarma.
 
 **Meta-Learning** - Yapay zekanın kendi kendine öğrenmesi.
-
-**AI and Creativity** - Yapay zekanın sanatta kullanımı.
-
-**Recommended Systems** - Film, müzik, ürün öneren sistemler.
-
-**AI Deployment Strategies** - Yapay zekanın gerçek hayatta nasıl kullanılacağı.
 
 ## Araçlar
 ### Makine Öğrenmesi ve Derin Öğrenme Araçları
