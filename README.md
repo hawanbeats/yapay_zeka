@@ -63,6 +63,12 @@
 
 **Al Alignment** - Yapay Zekanın insani değerlere uymasını sağlamak.
 
+**Hallucination** - AI modellerinin ürettiği yanlış veya yanıltıcı sonuçlar.
+
+**Temperature** - Büyük dil modelleri (LLM) çıktısını ayarlamak için bir parametre.
+
+**Context Window** - Modelin herhangi bir anda dikkate alabileceği token cinsinden metin miktarı.
+
 **Swarm Learning** - Farklı yapay zeka modellerinin birlikte öğrenmesi.
 
 **Graph Neural Networks (GNNs)** - Verileri grafik yapısı üzerinden işleyen sinir ağları.
@@ -82,6 +88,8 @@
 **Explainable AI (XAI)** - Yapay zekanın nasıl çalıştığını açıklamaya yönelik teknikler.
 
 **Bayesian Optimization** - Hiperparametre ayarlarını optimize eden bir teknik.
+
+**Prompt Engineering** - Modelden istenen yanıtları ortaya çıkarmak için bir doğal dil işleme modelinin girdi talimatlarını dikkatli bir şekilde hazırlama sürecidir.
 
 **CoT (Chain of Thought)** - Al adım adım düşünüyor.
 
@@ -210,8 +218,6 @@
 **Backpropagation** - Modelin hatalarını düzelten algoritma.
 
 **Feedforward Neural Networks** - Verinin bir yönde aktığı en basit sinir ağı modeli.
-
-**AI in Robotics** - Robotların yapay zeka ile çalışmasını sağlar.
 
 **Semantic Analysis** - Kelimelerin anlamlarını analiz eder.
 
@@ -374,10 +380,14 @@
 - [Stuart Russell & Peter Norvig - Artificial Intelligence: A Modern Approach](https://github.com/anishLearnsToCode/books/blob/master/artificial-intelligence/artificial-intelligence-a-modern-approach.pdf)
 - [Aston Zhang - Dive Into Deep Learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/Deep-learning/d2l-en.pdf)
 - [François Chollet - Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
+- [Nick Bostrom - Superintelligence : Paths, Dangers, Strategies](https://www.docdroid.net/gqK9Ty1/nick-bostrom-superintelligence-paths-dangers-strategies-oxford-university-press-2014-1-pdf#page=65)
+- [Tess Ferrandez - Intro to Deep Learning Notes](https://github.com/MedAzizTousli/Coursera-Deep-Learning-Specialization/blob/master/Specialization%20Summary%20by%20Tess%20Ferrandez.pdf)
+- [Machine Learning Cheatsheet](https://cheatography.com/lulu-0012/cheat-sheets/test-ml/)
+- [Python Data Science](https://avys.omu.edu.tr/storage/app/public/mustafa.kaya/135286/Python_Datascience.pdf)
+- [Dmitry Zinoviev - Data Science Essentials In Python](https://www.pdfdrive.com/data-science-essentials-in-python-e55235961.html)
 
 ### Ücretli
 - Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak
-- Nick Bostrom - Süper Zekâ: Yapay Zekâ Uygulamaları, Tehlikeler ve Stratejiler
 - Harvard Business Review - Yapay Zekâ: Dijital Dönüşüm
 - Viktor Dörfler - Yöneticiler İçin Yapay Zekâ
 
