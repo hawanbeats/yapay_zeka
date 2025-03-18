@@ -55,6 +55,12 @@
 
 **Edge AI** - Yapay zekanın bulut yerine cihaz üzerinde çalışması.
 
+**Al Agents (Agentic AI)** - Karar veren otonom programlar.
+
+**Al Wrapper** - Yapay Zeka modelleriyle etkileşimi basitleştirir.
+
+**Al Alignment** - Yapay Zekanın insani değerlere uymasını sağlamak.
+
 **Swarm Learning** - Farklı yapay zeka modellerinin birlikte öğrenmesi.
 
 **Graph Neural Networks (GNNs)** - Verileri grafik yapısı üzerinden işleyen sinir ağları.
@@ -172,6 +178,10 @@
 **Regularization Techniques** - Modelin çok fazla ezber yapmasını engeller.
 
 **Hyperparameter Tuning** - Modeli daha iyi hale getirmek için ayarlamalar yapar.
+
+**Hallucination** - Al yanlış bilgi ürettiğinde.
+
+**Fine-tuning** - Belirli eğitim verileriyle Yapay Zekayı geliştirmek.
 
 **Principal Component Analysis (PCA)** - Karmaşık veriyi daha sade hale getirir.
 
