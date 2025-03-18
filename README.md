@@ -7,6 +7,7 @@
 5. [Kurslar](#kurslar)
 6. [Kitaplar](#kitaplar)
 7. [Videolar](#videolar)
+8. [Youtube Kanalları](#kanallar)
 
 ## Dallar
 
@@ -400,3 +401,7 @@
 - [Basics of Computational Reinforcement Learning](https://videolectures.net/videos/rldm2015_littman_computational_reinforcement)
 - [Deep Reinforcement Learning](https://videolectures.net/videos/rldm2015_silver_reinforcement_learning)
 - [Fei-Fei Li: Resimleri anlamaları için bilgisayarları nasıl eğitiyoruz](https://youtu.be/40riCqvRoMs?si=CpRr6rz_hffhl19E)
+
+## Kanallar
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- 
