@@ -370,6 +370,7 @@
 - [AI Python For Beginners (DeepLearning AI)](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/z57gn/introduction?courseName=ai-python-for-beginners)
 - [Introduction to AI and Machine Learning (Google Cloud)](https://www.cloudskillsboost.google/course_templates/593)
 - [CS50’s Introduction to Artificial Intelligence with Python (Harvard)](https://cs50.harvard.edu/ai/2024/weeks/0/)
+- [Elements Of AI](https://course.elementsofai.com/)
 
 ## Kitaplar
 ### Ücretsiz
@@ -404,4 +405,26 @@
 
 ## Kanallar
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-- 
+- [CS Dojo](https://www.youtube.com/@CSDojo)
+- [Analytics Vidhya](https://www.youtube.com/@Analyticsvidhya)
+- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
+- [Sentdex](https://www.youtube.com/@sentdex)
+- [Corey Schafer](https://www.youtube.com/@coreyms)
+- [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
+- [Matt Wolfe](https://www.youtube.com/@mreflow)
+- [Data Science Dojo](https://www.youtube.com/@Datasciencedojo)
+- [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur)
+- [Lex Fridman](https://www.youtube.com/@lexfridman)
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+- [Jeff Su](https://www.youtube.com/@JeffSu)
+- [Skill Leap AI](https://www.youtube.com/@SkillLeapAI)
+- [Howtoai](https://www.youtube.com/@howtoaitutorials)
+- [Murtaza's Workshop](https://www.youtube.com/@murtazasworkshop)
+- [Howfinity](https://www.youtube.com/@Howfinity)
+- [Edureka!](https://www.youtube.com/@edurekaIN)
+- [Intellipaat](https://www.youtube.com/@Intellipaat)
+- [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
+- [Simplilearn](https://www.youtube.com/@SimplilearnOfficial)
+- [CampusX](https://www.youtube.com/@campusx-official)
+- [Deeplizard](https://www.youtube.com/@deeplizard)
+  
