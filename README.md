@@ -75,6 +75,8 @@
 
 **Bayesian Optimization** - Hiperparametre ayarlarını optimize eden bir teknik.
 
+**CoT (Chain of Thought)** - Al adım adım düşünüyor.
+
 **Neuroevolution** - Doğal evrim süreçlerini kullanarak sinir ağlarını geliştirme.
 
 **Reinforcement Learning from Human Feedback (RLHF)** - İnsan geri bildirimleriyle eğitilen pekiştirmeli öğrenme modeli (ChatGPT’de kullanılır).
