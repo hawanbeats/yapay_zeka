@@ -65,6 +65,8 @@
 
 **Contrastive Learning** - Benzer ve farklı örnekleri kıyaslayarak öğrenme.
 
+**Vector Similarity** - Veri analizinde kosinüs benzerliği, bir iç çarpım uzayında tanımlanan sıfır olmayan iki vektör arasındaki benzerliğin bir ölçüsüdür.
+
 **Sliding Window Technique** - İki iç içe döngüyü tek bir döngüye dönüştürmek için tasarlanmış problem çözme tekniği.
 
 **Adversarial Attacks** - Modeli kandırmak için kullanılan saldırı yöntemleri.
@@ -133,7 +135,7 @@
 
 **Graph Attention Networks (GATs)** - Graf verileriyle çalışan gelişmiş sinir ağları.
 
-**Machine Learning** - Makine öğrenmesi, bilgisayarların veriden öğrenmesini sağlayan bir yöntemdir. İnsan gibi öğrenmezler, örneklerden ders çıkararak karar verirler.
+**Machine Learning** - Makine öğrenmesi, bilgisayarların veriden öğrenmesini sağlayan bir yöntemdir.
 
 **Generative Adversarial Networks (GANs)** - İki sinir ağı birbirine karşı yarışır, gerçekçi görüntüler veya sesler üretir.
 
