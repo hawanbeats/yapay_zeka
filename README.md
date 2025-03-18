@@ -14,6 +14,12 @@
 - [Makine Öğrenimi Eğlencelidir: 1. Bölüm](https://medium.com/@ozgurs/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)
 - [Makine Öğrenimi Eğlencelidir: 2. Bölüm](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)
 - [Makine Öğrenimi Eğlencelidir: 3. Bölüm](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-3-k%C4%B1s%C4%B1m-2253856ad79c)
+- [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+- [Machine Learning is Fun Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
+- [Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
+- [Machine Learning is Fun Part 7: Abusing Generative Adversarial Networks to Make 8-bit Pixel Art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
+- [Machine Learning is Fun Part 8: How to Intentionally Trick Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
+- [Implementing Retrieval Augmented Generation (RAG): A Hands-On Guide!](https://generativeai.pub/implementing-retrieval-augmented-generation-rag-a-hands-on-guide-aefa061b2dcc)
 
 
 ## Kavramlar
