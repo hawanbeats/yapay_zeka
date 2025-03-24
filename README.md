@@ -32,245 +32,65 @@
 
 ## Kavramlar
 
-**Artificial General Intelligence (AGI)** - İnsan gibi düşünebilen ve farklı görevleri yerine getirebilen gelişmiş yapay zeka.
+**GPT (Generative Pre-trained Transformer)** – 
 
-**Artificial Narrow Intelligence (ANI)** - Tek bir görevi yerine getiren yapay zeka (örneğin, sesli asistanlar).
+**Algorithm (Algoritma)** –
 
-**Artificial Super Intelligence (ASI)** - İnsandan daha zeki olabilecek teorik yapay zeka.
+**Token** –
 
-**Deep Neural Network (DNN)** - Giriş ve çıkış katmanları arasında birden fazla katman bulunan yapay sinir ağı.
+**API** –
 
-**Supervised Learning (Denetimli Öğrenme)** - Modelin kendi kendine veri etiketleyerek öğrenmesi.
+**Transformers (Dönüştürücü Mimariler)** –
 
-**Unsupervised Learning (Denetimsiz Öğrenme)** - Veri setinde etiket bulunmadan yapılan öğrenme yöntemi.
+**Deep Learning (Derin Öğrenme)** –
 
-**Large Language Model (LLM)**: Geniş metin verileri üzerinde eğitim alan AI modeli.
+**NLP (Natural Language Processing) (Doğal Dil İşleme)** –
 
-**Few-Shot Learning** - Az miktarda veriyle öğrenen yapay zeka modeli.
+**Generative AI (Üretken Yapay Zeka)** –
 
-**Zero-Shot Learning** - Daha önce görmediği şeyleri anlayabilen yapay zeka.
+**LLM (Large Language Models) (Büyük Dil Modelleri)** –
 
-**One-Shot Learning** - Sadece bir örnekten öğrenebilen yapay zeka.
+**Neural Networks (Sinir ağları)** –
 
-**Federated Learning (Collaborative Learning)** - Merkezi sunucuya veri göndermeden yapay zeka modelini eğitme yöntemi.
+**Machine Learning (Makine Öğrenmesi)** –
 
-**Generative Al** - Metin, resim vb. oluşturan AI.
+**Supervised Learning (Gözetimli Öğrenme)** –
 
-**Edge AI** - Yapay zekanın bulut yerine cihaz üzerinde çalışması.
+**Unsupervised Learning (Gözetimsiz Öğrenme)** –
 
-**Al Agents (Agentic AI)** - Karar veren otonom programlar.
+**Reinforcement Learning (Pekiştirmeli Öğrenme)** –
 
-**Al Wrapper** - Yapay Zeka modelleriyle etkileşimi basitleştirir.
+**Computer Vision (Bilgisayarlı Görü)** –
 
-**Al Alignment** - Yapay Zekanın insani değerlere uymasını sağlamak.
+**Chatbot (Sohbet Botu)** –
 
-**Hallucination** - AI modellerinin ürettiği yanlış veya yanıltıcı sonuçlar.
+**Internet Of Things (IoT) (Nesnelerin İnterneti)** –
 
-**Temperature** - Büyük dil modelleri (LLM) çıktısını ayarlamak için bir parametre.
+**Cloud Computing (Bulut Bilişim)** –
 
-**Context Window** - Modelin herhangi bir anda dikkate alabileceği token cinsinden metin miktarı.
+**Cognitive Computing (Bilişsel Hesaplama)** –
 
-**Swarm Learning** - Farklı yapay zeka modellerinin birlikte öğrenmesi.
+**Quantum Computing (Kuantum Hesaplama)** –
 
-**Graph Neural Networks (GNNs)** - Verileri grafik yapısı üzerinden işleyen sinir ağları.
+**Big Data (Büyük Veri)** –
 
-**Neuro-Symbolic AI** - Yapay zeka algoritmalarını mantıksal kurallarla birleştirme.
+**Data Science (Veri Bilimi)** –
 
-**Multimodal Learning** - Farklı veri türlerini (görüntü, metin, ses) bir arada işleyebilen yapay zeka.
+**Data Mining (Veri Madenciliği)** –
 
-**Contrastive Learning** - Benzer ve farklı örnekleri kıyaslayarak öğrenme.
+**Structured Data (Yapılandırılmış Veri)** –
 
-**Vector Similarity** - Veri analizinde kosinüs benzerliği, bir iç çarpım uzayında tanımlanan sıfır olmayan iki vektör arasındaki benzerliğin bir ölçüsüdür.
+**Pattern Recognition (Desen Tanıma)** –
 
-**Sliding Window Technique** - İki iç içe döngüyü tek bir döngüye dönüştürmek için tasarlanmış problem çözme tekniği.
+**Training Data (Eğitim Verisi)** –
 
-**Adversarial Attacks** - Modeli kandırmak için kullanılan saldırı yöntemleri.
+**Image Recognition (Görüntü Tanıma)** –
 
-**Explainable AI (XAI)** - Yapay zekanın nasıl çalıştığını açıklamaya yönelik teknikler.
+**Voice Recognition (Ses Tanıma)** –
 
-**Bayesian Optimization** - Hiperparametre ayarlarını optimize eden bir teknik.
+**Prompt (Komut veya İstem)** –
 
-**Prompt Engineering** - Modelden istenen yanıtları ortaya çıkarmak için bir doğal dil işleme modelinin girdi talimatlarını dikkatli bir şekilde hazırlama sürecidir.
-
-**CoT (Chain of Thought)** - Al adım adım düşünüyor.
-
-**Neuroevolution** - Doğal evrim süreçlerini kullanarak sinir ağlarını geliştirme.
-
-**Reinforcement Learning from Human Feedback (RLHF)** - İnsan geri bildirimleriyle eğitilen pekiştirmeli öğrenme modeli (ChatGPT’de kullanılır).
-
-**Transformer Models** - Dil modellerinin temelini oluşturan mimari (BERT, GPT gibi).
-
-**Tokenization** - Metni küçük parçalara (kelime veya harf gruplarına) ayırma işlemi.
-
-**Self-Attention Mechanism** - Modelin hangi verilere odaklanacağını belirleyen teknik.
-
-**Hyperparameter Optimization** - Modelin en iyi çalışmasını sağlamak için parametreleri ayarlama.
-
-**Translational Invariance** - Sistem, girişinin nasıl kaydırıldığına bakılmaksızın tam olarak aynı yanıtı üretir.
-
-**Knowledge Graphs** - Bilgiyi düğümler ve bağlantılar halinde organize eden sistem.
-
-**Latent Space** - Verilerin sıkıştırıldığı gizli temsili uzay.
-
-**Feature Extraction** - Modelin en önemli özellikleri çıkarması.
-
-**Synthetic Data** - Gerçek veriye benzer, yapay olarak üretilmiş veri.
-
-**Sim-to-Real Transfer** - Simülasyonda eğitilmiş bir modelin gerçek dünyada kullanılması.
-
-**Causal Inference** - Neden-sonuç ilişkilerini analiz eden yapay zeka yöntemi.
-
-**Manifold Learning** - Yüksek boyutlu veriyi daha basit bir forma indirgeyen teknik.
-
-**Quantum Machine Learning** - Kuantum bilgisayarları kullanarak yapay zeka modelleri geliştirme.
-
-**Sparse Modeling** - Daha az veriyle çalışan modeller geliştirme yöntemi.
-
-**Attention Heads** - Transformer modellerinde kelimeler arasındaki ilişkileri analiz eden mekanizmalar.
-
-**Gradient Clipping** - Büyük hata oranlarını sınırlayarak modelin stabil kalmasını sağlama.
-
-**Perceptron** - En basit sinir ağı modeli.
-
-**Downsampling** - Bir veri kümesindeki veri örneklerinin sayısını azaltır.
-
-**Knowledge Distillation** - Büyük bir modeli daha küçük ve verimli bir hale getirme tekniği.
-
-**Vector Data** - Nesnelerin bağlamını ve anlamını yakalayan yerleştirme biçimi.
-
-**Ontology in AI** - Yapay zekanın bilgiyi anlamlandırması için kullanılan sistemler.
-
-**ResNet (Residual Networks)** - Derin sinir ağlarında öğrenmeyi kolaylaştıran bir model türü.
-
-**CapsNet (Capsule Networks)** - Geleneksel sinir ağlarından daha iyi nesne tanıma yapabilen bir yapı.
-
-**Heterogeneous Learning** - Farklı veri türlerini aynı anda işleyebilen yapay zeka.
-
-**Semi-Supervised Learning** - Hem etiketli hem de etiketsiz verilerle öğrenme yöntemi.
-
-**Lifelong Learning** - Modelin sürekli öğrenmesini sağlayan teknik.
-
-**Memory-Augmented Neural Networks (MANNs)** - Öğrenilen bilgileri uzun süre saklayabilen sinir ağları.
-
-**Graph Attention Networks (GATs)** - Graf verileriyle çalışan gelişmiş sinir ağları.
-
-**Machine Learning** - Makine öğrenmesi, bilgisayarların veriden öğrenmesini sağlayan bir yöntemdir.
-
-**Generative Adversarial Networks (GANs)** - İki sinir ağı birbirine karşı yarışır, gerçekçi görüntüler veya sesler üretir.
-
-**Convolutional Neural Networks (CNNs)** - Görüntüleri işler, mesela yüz tanıma sistemlerinde kullanılır.
-
-**Recurrent Neural Networks (RNNs)** - Zaman sıralı verileri işler, mesela konuşma tanımada kullanılır.
-
-**Transfer Learning** - Başka bir modelin öğrendiğini kullanarak yeni bir şey öğrenme.
-
-**Bayesian Networks** - Olasılıklar üzerinden tahmin yapar, mesela hava durumu tahmini gibi.
-
-**Decision Trees (Karar Ağaçları)** - "Evet-Hayır" soruları ile karar verir.
-
-**Random Forests** - Birçok karar ağacının birlikte çalışması.
-
-**Gradient Boosting Machines (GBM)** - Veriyi analiz edip iyi tahmin yapmayı öğrenen yöntem.
-
-**Support Vector Machines (SVM)** - Veriyi ayırarak sınıflandırır.
-
-**Dimensionality Reduction** - Gereksiz veriyi atarak önemli veriyi saklar.
-
-**Clustering Algorithms** - Benzer şeyleri gruplar.
-
-**Sequence Models** - Sıralı verilerle çalışır (mesela cümlelerdeki kelimeler).
-
-**Time Series Forecasting** - Geçmiş verilerle geleceği tahmin eder.
-
-**Anomaly Detection** - Normalden sapmaları (hataları, dolandırıcılığı) tespit eder.
-
-**Ensemble Methods** - Birden fazla yöntemi birleştirerek daha iyi sonuç alır.
-
-**Regularization Techniques** - Modelin çok fazla ezber yapmasını engeller.
-
-**Hyperparameter Tuning** - Modeli daha iyi hale getirmek için ayarlamalar yapar.
-
-**Hallucination** - Al yanlış bilgi ürettiğinde.
-
-**Fine-tuning** - Belirli eğitim verileriyle Yapay Zekayı geliştirmek.
-
-**Principal Component Analysis (PCA)** - Karmaşık veriyi daha sade hale getirir.
-
-**Autoencoders** - Görüntüleri sıkıştırarak önemli bilgiyi saklar.
-
-**Deep Reinforcement Learning** - Öğrenme sürecinde ödül-ceza sistemini kullanır.
-
-**Markov Decision Processes** - Belirsiz ortamlarda karar vermek için kullanılır.
-
-**Bias-Variance Tradeoff** - Modelin çok fazla mı yoksa çok az mı öğrendiğini dengeler.
-
-**Data Augmentation** - Yeni veriler üretir (mesela resimlerin parlaklığını değiştirerek çeşitlilik yaratır).
-
-**Feature Selection** - En önemli verileri seçip gereksizleri atar.
-
-**Model Compression** - Büyük modelleri daha küçük hale getirir.
-
-**Multilayer Perceptrons** - Temel sinir ağı modeli.
-
-**Loss Functions** - Modelin ne kadar hata yaptığını ölçer.
-
-**Activation Functions** - Modelin nasıl çalışacağını belirleyen matematiksel işlemler.
-
-**Backpropagation** - Modelin hatalarını düzelten algoritma.
-
-**Feedforward Neural Networks** - Verinin bir yönde aktığı en basit sinir ağı modeli.
-
-**Semantic Analysis** - Kelimelerin anlamlarını analiz eder.
-
-**Syntax Parsing** - Cümlelerin yapısını inceler.
-
-**Embedding** - Al için kelimelerin sayısal gösterimi.
-
-**Word Embeddings** - Kelimeleri sayısal hale getirir.
-
-**Attention Mechanisms** - Modelin önemli noktalara odaklanmasını sağlar.
-
-**Capsule Networks** - Daha iyi görsel analiz yapar.
-
-**AI Explainability** - Modelin nasıl çalıştığını açıklama.
-
-**AI Fairness** - Modelin adil olup olmadığını kontrol eder.
-
-**AI Security** - Yapay zekanın güvenliğini sağlar.
-
-**Distributed AI Systems** - Farklı cihazlar arasında çalışan yapay zeka sistemleri.
-
-**Graphical Models** - Verileri grafikler şeklinde anlamlandırır.
-
-**Monte Carlo Methods** - Rastgele yöntemlerle tahmin yapar.
-
-**Natural Language Processing (NLP)** - Bilgisayarların dili anlaması.
-
-**Speech Recognition** - Konuşmayı yazıya çevirir.
-
-**Natural Language Generation** - Yapay zeka tarafından yazı üretme.
-
-**Image Recognition** - Görüntüdeki nesneleri tanıma.
-
-**Object Detection** - Nesneleri tespit etme.
-
-**Scene Understanding** - Görüntüleri anlamlandırma.
-
-**Swarm Intelligence** - Arı sürüsü gibi çalışan yapay zeka sistemleri.
-
-**Evolutionary Algorithms** - Doğal seleksiyon gibi çalışan yapay zeka algoritmaları.
-
-**Fuzzy Logic Systems** - Kesin olmayan verilerle çalışan sistemler.
-
-**Knowledge Representation** - Bilgiyi saklama ve kullanma yöntemi.
-
-**Expert Systems** - Uzmanların bilgilerini taklit eden sistemler.
-
-**Automated Reasoning** - Yapay zekanın mantık yürütmesi.
-
-**Case-Based Reasoning** - Geçmiş deneyimlerden ders çıkarma.
-
-**Meta-Learning** - Yapay zekanın kendi kendine öğrenmesi.
+**Guardrails** –
 
 ## Araçlar
 ### Makine Öğrenmesi ve Derin Öğrenme Araçları
@@ -327,6 +147,7 @@
 - [Google Vertex AI](https://cloud.google.com/vertex-ai?hl=tr) – Büyük veri analizi için AI destekli araç.
 
 ### Diğer AI Araçları
+- [](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb#scrollTo=VjYy0F2gZIPR) – AI destekli fotoğraf oluşturma aracı.
 - [Sitekick](https://www.sitekick.ai/) – Web sitesi tasarlamak için yapay zeka destekli bir araç. Kod yazmadan hızlıca web sayfaları oluşturmanı sağlar.
 - [Quillbot](https://quillbot.com/) – Metinleri yeniden yazma, özetleme ve yazım denetimi yapabilen AI destekli yazma aracı.
 - [AutoSummarizer](https://autosummarizer.com/) – Uzun metinleri kısaltarak özet çıkartan bir yapay zeka aracı.
@@ -387,6 +208,7 @@
 - [Machine Learning Cheatsheet](https://cheatography.com/lulu-0012/cheat-sheets/test-ml/)
 - [Python Data Science](https://avys.omu.edu.tr/storage/app/public/mustafa.kaya/135286/Python_Datascience.pdf)
 - [Dmitry Zinoviev - Data Science Essentials In Python](https://www.pdfdrive.com/data-science-essentials-in-python-e55235961.html)
+- [Stanford CS230 Deep Learning Notes](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
 
 ### Ücretli
 - Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak
