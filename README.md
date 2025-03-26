@@ -149,7 +149,7 @@
 - [Google Vertex AI](https://cloud.google.com/vertex-ai?hl=tr) – Büyük veri analizi için AI destekli araç.
 
 ### Diğer AI Araçları
-- [](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb#scrollTo=VjYy0F2gZIPR) – AI destekli fotoğraf oluşturma aracı.
+- [Fooocus Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb#scrollTo=VjYy0F2gZIPR) – AI destekli fotoğraf oluşturma aracı.
 - [Sitekick](https://www.sitekick.ai/) – Web sitesi tasarlamak için yapay zeka destekli bir araç. Kod yazmadan hızlıca web sayfaları oluşturmanı sağlar.
 - [Quillbot](https://quillbot.com/) – Metinleri yeniden yazma, özetleme ve yazım denetimi yapabilen AI destekli yazma aracı.
 - [AutoSummarizer](https://autosummarizer.com/) – Uzun metinleri kısaltarak özet çıkartan bir yapay zeka aracı.
