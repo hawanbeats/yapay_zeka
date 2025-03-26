@@ -21,65 +21,65 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 
 ## Kavramlar
 
-**GPT (Generative Pre-trained Transformer)** – 
+**GPT (Generative Pre-trained Transformer)** – OpenAI tarafından geliştirilen bir dil modeli. Metin üretme, dil anlama gibi görevlerde kullanılır.
 
-**Algorithm (Algoritma)** –
+**Algorithm (Algoritma)** – Belirli bir problemi çözmek için izlenen adımlar dizisi.
 
-**Token** –
+**Token** – Doğal dil işleme (NLP) işlemlerinde, metnin anlamlı parçalarına bölünmüş birim (kelime, harf, vs.).
 
-**API** –
+**API (Application Programming Interface)** – Yazılımların birbirleriyle iletişim kurmasını sağlayan bir ara yüz.
 
-**Transformers (Dönüştürücü Mimariler)** –
+**Transformers (Dönüştürücü Mimariler)** – Derin öğrenme modelleri için kullanılan bir mimari, dil işleme gibi alanlarda başarılı sonuçlar verir.
 
-**Deep Learning (Derin Öğrenme)** –
+**Deep Learning (Derin Öğrenme)** – Çok katmanlı yapay sinir ağları ile yapılan öğrenme türüdür, büyük veri ile çalışır.
 
-**NLP (Natural Language Processing) (Doğal Dil İşleme)** –
+**NLP (Natural Language Processing) (Doğal Dil İşleme)** – İnsan dilini anlamaya ve işlemeye yönelik yapay zeka alanı.
 
-**Generative AI (Üretken Yapay Zeka)** –
+**Generative AI (Üretken Yapay Zeka)** – Yeni içerik (metin, resim, müzik) üreten yapay zeka sistemleri.
 
-**LLM (Large Language Models) (Büyük Dil Modelleri)** –
+**LLM (Large Language Models) (Büyük Dil Modelleri)** – Çok büyük veri setleriyle eğitilmiş dil modelleri, dil anlama ve üretme konusunda başarılıdır.
 
-**Neural Networks (Sinir ağları)** –
+**Neural Networks (Sinir ağları)** – Beyin yapısını taklit eden, verileri işleyerek öğrenebilen yapılar.
 
-**Machine Learning (Makine Öğrenmesi)** –
+**Machine Learning (Makine Öğrenmesi)** – Verilerle modellenen ve deneyimle öğrenen algoritmalar.
 
-**Supervised Learning (Gözetimli Öğrenme)** –
+**Supervised Learning (Gözetimli Öğrenme)** – Etiketli verilerle eğitim yaparak doğru sonuçları öğrenme süreci.
 
-**Unsupervised Learning (Gözetimsiz Öğrenme)** –
+**Unsupervised Learning (Gözetimsiz Öğrenme)** – Etiketsiz verilerle, örüntüleri ve yapıları öğrenme süreci.
 
-**Reinforcement Learning (Pekiştirmeli Öğrenme)** –
+**Reinforcement Learning (Pekiştirmeli Öğrenme)** – Ajanların ödüller ve cezalarla en iyi aksiyonları öğrenmesi.
 
-**Computer Vision (Bilgisayarlı Görü)** –
+**Computer Vision (Bilgisayarlı Görü)** – Bilgisayarların görüntüleri analiz ederek anlamlandırması.
 
-**Chatbot (Sohbet Botu)** –
+**Chatbot (Sohbet Botu)** – İnsanlarla doğal dilde iletişim kurabilen yapay zeka destekli yazılım.
 
-**Internet Of Things (IoT) (Nesnelerin İnterneti)** –
+**Internet Of Things (IoT) (Nesnelerin İnterneti)** – Fiziksel cihazların internet üzerinden birbirine bağlanarak veri paylaşması.
 
-**Cloud Computing (Bulut Bilişim)** –
+**Cloud Computing (Bulut Bilişim)** – İnternet üzerinden depolama ve işlem gücü sağlama teknolojisi.
 
-**Cognitive Computing (Bilişsel Hesaplama)** –
+**Cognitive Computing (Bilişsel Hesaplama)** – İnsan zekasını taklit etmeye çalışan bilgisayar sistemleri.
 
-**Quantum Computing (Kuantum Hesaplama)** –
+**Quantum Computing (Kuantum Hesaplama)** – Kuantum fiziği prensiplerine dayanan hesaplama teknolojisi.
 
-**Big Data (Büyük Veri)** –
+**Big Data (Büyük Veri)** – Çok büyük ve karmaşık veri setlerinin işlenmesi ve analiz edilmesi.
 
-**Data Science (Veri Bilimi)** –
+**Data Science (Veri Bilimi)** – Verileri analiz ederek bilgi çıkarmaya yönelik disiplin.
 
-**Data Mining (Veri Madenciliği)** –
+**Data Mining (Veri Madenciliği)** – Verilerden anlamlı desenlerin ve bilgilerinin keşfi.
 
-**Structured Data (Yapılandırılmış Veri)** –
+**Structured Data (Yapılandırılmış Veri)** – Belirli bir formata ve düzene sahip, genellikle tablo şeklinde veriler.
 
-**Pattern Recognition (Desen Tanıma)** –
+**Pattern Recognition (Desen Tanıma)** – Verilerdeki belirli örüntüleri ve ilişkileri tanıma süreci.
 
-**Training Data (Eğitim Verisi)** –
+**Training Data (Eğitim Verisi)** – Makine öğrenmesi modellerinin öğrenmesi için kullanılan etiketli veriler.
 
-**Image Recognition (Görüntü Tanıma)** –
+**Image Recognition (Görüntü Tanıma)** – Görsel içerikleri tanımlamak ve sınıflandırmak için kullanılan teknoloji.
 
-**Voice Recognition (Ses Tanıma)** –
+**Voice Recognition (Ses Tanıma)** – Sesli komutları ve sesleri tanıyan yapay zeka teknolojisi.
 
-**Prompt (Komut veya İstem)** –
+**Prompt (Komut veya İstem)** – Yapay zekaya belirli bir işlem yapması için verilen talimat veya giriş.
 
-**Guardrails** –
+**Guardrails** – Yapay zeka sistemlerinin güvenli ve etik şekilde çalışmasını sağlamak için belirlenen sınırlar ve kurallar.
 
 ## Araçlar
 ### Makine Öğrenmesi ve Derin Öğrenme Araçları
