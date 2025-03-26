@@ -1,4 +1,10 @@
 # Yapay Zeka
+
+## Hakkında 
+Bu repository, yapay zeka (AI) ile ilgili kapsamlı bir kaynak koleksiyonudur. AI öğrenmek isteyenler için faydalı araçlar, kitaplar, videolar ve proje fikirleri gibi çeşitli içerikler sunulmaktadır. Ayrıca, AI kavramları, dalları ve güncel gelişmeler hakkında bilgi edinmek isteyenler için derlenmiş yazılar ve makaleler de mevcuttur.
+Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyede bilgi sahibi olanlar için yararlı olacak şekilde sıralanmıştır. GitHub repository'si, AI araştırma ve geliştirme sürecini kolaylaştırmak ve bu alandaki bilgiye kolay erişimi sağlamak amacıyla düzenlenmiştir.
+İçerikler, AI'nin farklı dallarına ait derinlemesine bilgiler sunarken, kullanıcıların kendi projelerinde veya öğrenim süreçlerinde faydalanabilecekleri araçlar ve uygulamalara yönlendirilmektedir. Her seviyeden yapay zeka meraklısı ve geliştiricisinin burada kendine uygun kaynaklar bulabilmesi hedeflenmektedir.
+
 ## İçindekiler
 1. [Dallar](#dallar)
 2. [Kavramlar](#kavramlar)
