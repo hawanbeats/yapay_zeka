@@ -175,6 +175,10 @@
 - [Introduction to AI and Machine Learning (Google Cloud)](https://www.cloudskillsboost.google/course_templates/593)
 - [AI Agents For Beginners (Microsoft)](https://microsoft.github.io/ai-agents-for-beginners/)
 - [CS50’s Introduction to Artificial Intelligence with Python (Harvard)](https://cs50.harvard.edu/ai/2024/weeks/0/)
+- [Intro To Machine Learning (Kaggle)](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [Intermediate Machine Learning (Kaggle)](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [Intro To Deep Learning (Kaggle)](https://www.kaggle.com/learn/intro-to-deep-learning)
+- [Computer Vision (Kaggle)](https://www.kaggle.com/learn/computer-vision)
 - [AI Agents (Hugging Face)](https://huggingface.co/learn/agents-course/unit0/introduction)
 - [Elements Of AI](https://course.elementsofai.com/)
 - [Welcome To Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning/lecture/iYR2y/welcome-to-machine-learning)
@@ -197,6 +201,7 @@
 - [Python Data Science](https://avys.omu.edu.tr/storage/app/public/mustafa.kaya/135286/Python_Datascience.pdf)
 - [Dmitry Zinoviev - Data Science Essentials In Python](https://www.pdfdrive.com/data-science-essentials-in-python-e55235961.html)
 - [Stanford CS230 Deep Learning Notes](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
+- [Amazon - Machine Learning Developer Guide](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf)
 
 ### Ücretli
 - Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak
