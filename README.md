@@ -202,6 +202,7 @@
 - [Dmitry Zinoviev - Data Science Essentials In Python](https://www.pdfdrive.com/data-science-essentials-in-python-e55235961.html)
 - [Stanford CS230 Deep Learning Notes](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
 - [Amazon - Machine Learning Developer Guide](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf)
+- [Top 100 Machine Learning Interview Questions Answers](https://github.com/user-attachments/files/19470360/Top_100_Machine_Learning_Interview_Questions_Answers_Cheatshee.pdf)
 
 ### Ücretli
 - Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak
