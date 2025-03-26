@@ -1,36 +1,17 @@
 # Yapay Zeka
 ## İçindekiler
 1. [Dallar](#dallar)
-2. [Yazılar](#makaleler)
-3. [Kavramlar](#kavramlar)
-4. [Araçlar](#araçlar)
-5. [Kurslar](#kurslar)
-6. [Kitaplar](#kitaplar)
-7. [Videolar](#videolar)
-8. [Youtube Kanalları](#kanallar)
+2. [Kavramlar](#kavramlar)
+3. [Araçlar](#araçlar)
+4. [Kurslar](#kurslar)
+5. [Kitaplar](#kitaplar)
+6. [Videolar](#videolar)
+7. [Youtube Kanalları](#kanallar)
+8. [Yazılar](#makaleler)
 9. [Proje Fikirleri](#proje)
 10. [Yapay Zeka Ajanları](#ajanlar)
 
 ## Dallar
-
-## Makaleler
-- [Makine Öğrenimi Eğlencelidir: 1. Bölüm](https://medium.com/@ozgurs/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)
-- [Makine Öğrenimi Eğlencelidir: 2. Bölüm](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)
-- [Makine Öğrenimi Eğlencelidir: 3. Bölüm](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-3-k%C4%B1s%C4%B1m-2253856ad79c)
-- [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
-- [Machine Learning is Fun Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
-- [Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
-- [Machine Learning is Fun Part 7: Abusing Generative Adversarial Networks to Make 8-bit Pixel Art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
-- [Machine Learning is Fun Part 8: How to Intentionally Trick Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
-- [Derin Öğrenme Başlangıç Seti - Donanım Ve Yazılım](https://www.ardamavi.com/2017/10/derin-ogrenme-baslangic-seti.html)
-- [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](https://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html)
-- [İnsanda Ve Makinede Öğrenme](https://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html)
-- [Bilgisayarda Görüntü Ve Sayı Dizileri](https://www.ardamavi.com/2017/07/bilgisyarda-goruntu-ve-sayi-dizileri.html)
-- [Makine Öğrenmesi 101](https://veribilimcisi.wordpress.com/makine-ogrenmesi/)
-- [Derin Öğrenme 101](https://veribilimcisi.wordpress.com/derin-ogrenme-101/)
-- [Makine Öğrenmesi Matematiği](https://veribilimcisi.wordpress.com/makine-ogrenmesi-matematigi/)
-- [Implementing Retrieval Augmented Generation (RAG): A Hands-On Guide!](https://generativeai.pub/implementing-retrieval-augmented-generation-rag-a-hands-on-guide-aefa061b2dcc)
-
 
 ## Kavramlar
 
@@ -255,6 +236,24 @@
 - [Simplilearn](https://www.youtube.com/@SimplilearnOfficial)
 - [CampusX](https://www.youtube.com/@campusx-official)
 - [Deeplizard](https://www.youtube.com/@deeplizard)
+
+## Makaleler
+- [Makine Öğrenimi Eğlencelidir: 1. Bölüm](https://medium.com/@ozgurs/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)
+- [Makine Öğrenimi Eğlencelidir: 2. Bölüm](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)
+- [Makine Öğrenimi Eğlencelidir: 3. Bölüm](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-3-k%C4%B1s%C4%B1m-2253856ad79c)
+- [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+- [Machine Learning is Fun Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
+- [Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
+- [Machine Learning is Fun Part 7: Abusing Generative Adversarial Networks to Make 8-bit Pixel Art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
+- [Machine Learning is Fun Part 8: How to Intentionally Trick Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
+- [Derin Öğrenme Başlangıç Seti - Donanım Ve Yazılım](https://www.ardamavi.com/2017/10/derin-ogrenme-baslangic-seti.html)
+- [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](https://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html)
+- [İnsanda Ve Makinede Öğrenme](https://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html)
+- [Bilgisayarda Görüntü Ve Sayı Dizileri](https://www.ardamavi.com/2017/07/bilgisyarda-goruntu-ve-sayi-dizileri.html)
+- [Makine Öğrenmesi 101](https://veribilimcisi.wordpress.com/makine-ogrenmesi/)
+- [Derin Öğrenme 101](https://veribilimcisi.wordpress.com/derin-ogrenme-101/)
+- [Makine Öğrenmesi Matematiği](https://veribilimcisi.wordpress.com/makine-ogrenmesi-matematigi/)
+- [Implementing Retrieval Augmented Generation (RAG): A Hands-On Guide!](https://generativeai.pub/implementing-retrieval-augmented-generation-rag-a-hands-on-guide-aefa061b2dcc)
   
 ## Proje
 
