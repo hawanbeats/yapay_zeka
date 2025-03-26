@@ -8,6 +8,8 @@
 6. [Kitaplar](#kitaplar)
 7. [Videolar](#videolar)
 8. [Youtube Kanalları](#kanallar)
+9. [Proje Fikirleri](#proje)
+10. [Yapay Zeka Ajanları](#ajanlar)
 
 ## Dallar
 
@@ -250,3 +252,7 @@
 - [CampusX](https://www.youtube.com/@campusx-official)
 - [Deeplizard](https://www.youtube.com/@deeplizard)
   
+## Proje
+
+## Ajanlar
+![YAPAY ZEKA AJANLARI1](https://github.com/user-attachments/assets/b44e9b30-b5d1-4e6b-adb9-e492958e2997)
