@@ -264,6 +264,89 @@
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
   
 ## Proje
+1. İris Çiçeği Sınıflandırması
+Öğrenecekleriniz: Gözetimli öğrenme ve sınıflandırma algoritmalarının temelleri.
+Açıklama: Bu klasik veri seti, ML yeni başlayanlar için harika bir başlangıç ​​noktasıdır. Üç tür iris çiçeğinin çanak yaprağı ve taç yaprağı boyutları hakkında bilgi içerir.
+Gerekli Araçlar: Python, Jupyter Notebook, scikit-learn.
+Amaç: Bir çiçeğin türünü, boyutlarına göre tahmin etmek için Lojistik Regresyon veya Karar Ağaçları gibi bir sınıflandırma algoritması kullanmak.
+
+2. El Yazısı Rakam Tanıma
+Öğrenecekleriniz: Yapay sinir ağları ve görüntü işleme.
+Açıklama: Sayıları tanıyabilen bir model eğitmek için el yazısıyla yazılmış rakamlardan oluşan MNIST veri setini kullanın.
+Gerekli Araçlar: TensorFlow, Keras veya PyTorch.
+Amaç: 0'dan 9'a kadar rakamları sınıflandıran basit bir ileri beslemeli sinir ağı veya evrişimli sinir ağı (CNN) oluşturmak.
+
+3. Tweetlerde Duygu Analizi
+Öğrenecekleriniz: Metin ön işleme ve doğal dil işleme (NLP).
+Açıklama: Tweet'leri analiz ederek ifade edilen duygunun olumlu, olumsuz veya nötr olup olmadığını belirleyin.
+Gerekli Araçlar: Python, NLTK, scikit-learn veya Hugging Face Transformers.
+Hedef: Sentiment140 veri seti gibi bir veri setini kullanarak metin verilerini işleyebilen ve duyguyu tahmin edebilen bir model oluşturmak.
+
+4. Ev Fiyat Tahmini
+Öğrenecekleriniz: Regresyon teknikleri ve özellik mühendisliği.
+Açıklama: Ev fiyatlarını büyüklük, konum ve oda sayısı gibi özelliklere göre tahmin etmek için Kaggle Ev Fiyatları veri kümesi gibi veri kümeleriyle çalışın.
+Gerekli Araçlar: Python, pandas, scikit-learn, Matplotlib/Seaborn.
+Hedef: Ev fiyatlarını doğru bir şekilde tahmin etmek için bir regresyon modeli (örneğin Doğrusal Regresyon, Rastgele Orman) oluşturmak.
+
+5. Film Öneri Sistemi
+Öğrenecekleriniz: Öneri sistemleri ve işbirlikçi filtreleme.
+Açıklama: Kullanıcı tercihlerine göre film öneren bir sistem oluşturmak için MovieLens veri kümesi gibi veri kümelerini kullanın.
+Gerekli Araçlar: Python, pandas, NumPy, scikit-learn veya surprise kütüphanesi.
+Hedef: Kullanıcının daha önce beğendiği filmlere benzer filmleri önermek için işbirlikçi bir filtreleme tekniği uygulamak.
+
+6. Otomatik Finansal Dolandırıcılık Tespiti
+Öğrenecekleriniz: Anomali tespiti, makine öğrenimi ve doğal dil işleme (NLP).
+Açıklama: Finansal işlemleri analiz ederek dolandırıcılık girişimlerini tespit eden bir sistem geliştirin. Şüpheli işlemleri belirleyerek riskleri minimize edin.
+Gerekli Araçlar: Python, scikit-learn, TensorFlow/PyTorch, Pandas, NLTK, Elasticsearch.
+Hedef: Kredi kartı işlemleri veya banka verileri gibi bir veri seti kullanarak anomali tespiti yapan bir model oluşturmak ve gerçek zamanlı dolandırıcılık tespiti gerçekleştirmek.
+
+7. Kişiselleştirilmiş Sağlık Öneri Sistemi
+Öğrenecekleriniz: Makine öğrenimi, öneri sistemleri ve sağlık verisi analizi.
+Açıklama: Kullanıcının sağlık verilerini analiz ederek yaş, kilo, aktivite seviyesi ve sağlık geçmişine göre kişiselleştirilmiş öneriler sunan bir sistem geliştirin.
+Gerekli Araçlar: Python, scikit-learn, TensorFlow/PyTorch, Pandas, FastAPI, SQLite/PostgreSQL.
+Hedef: Kullanıcıların sağlık verilerini işleyerek beslenme, egzersiz ve yaşam tarzı önerileri sunan bir model oluşturmak ve interaktif bir öneri sistemi geliştirmek.
+
+8. Bilgisayar Görüntüsüyle Otonom Drone Navigasyonu
+Öğrenecekleriniz: Bilgisayarlı görü (CV), derin öğrenme, drone kontrolü ve görüntü tabanlı navigasyon.
+Açıklama: Kameradan alınan görüntüleri analiz ederek engelleri algılayan, rota çizen ve otonom bir şekilde hareket eden bir drone sistemi geliştirin.
+Gerekli Araçlar: Python, OpenCV, TensorFlow/PyTorch, YOLO, ROS (Robot Operating System), DJI Tello SDK veya PX4.
+Hedef: Drone'un çevresel faktörleri algılayarak otonom bir şekilde hedefe ulaşmasını sağlayan bir model oluşturmak ve gerçek zamanlı navigasyon gerçekleştirmek.
+
+9. AI Destekli Özgeçmiş Tarama ve Eşleştirme
+Öğrenecekleriniz: Doğal Dil İşleme (NLP), makine öğrenimi, semantik benzerlik modelleri ve Elasticsearch.
+Açıklama: Özgeçmişleri tarayarak, adayların beceri ve deneyimlerine göre uygun iş ilanlarıyla eşleştiren bir sistem geliştirin. Bu sistem, iş ilanlarına uygun adayları otomatik olarak belirleyecek.
+Gerekli Araçlar: Python, SpaCy, scikit-learn, Elasticsearch, Hugging Face Transformers, Pandas.
+Hedef: LinkedIn ve kariyer sitelerinden veri toplayarak, PDF formatındaki özgeçmişleri işleyen ve yazılım sektörü için adayları iş ilanlarıyla eşleştiren bir AI modeli oluşturmak.
+
+10. Akıllı Enerji Tüketim Tahmini ve Optimizasyonu
+Öğrenecekleriniz: Zaman serisi analizi, makine öğrenimi, enerji yönetimi ve optimizasyon algoritmaları.
+Açıklama: Evler veya işletmeler için enerji tüketimini tahmin eden ve enerji tüketimini optimize eden bir sistem geliştirin. Sistem, geçmiş tüketim verilerini kullanarak gelecekteki enerji taleplerini tahmin eder ve enerji kullanımını optimize eder.
+Gerekli Araçlar: Python, scikit-learn, TensorFlow/PyTorch, Pandas, XGBoost, Prophet, Google OR-Tools.
+Hedef: Enerji tüketim verilerini analiz ederek, zaman serisi modellemesi ile gelecekteki tüketimi tahmin eden ve enerji optimizasyonu sağlayan bir sistem oluşturmak.
+
+11. Gelişmiş Resim Altyazı Sistemi
+Öğrenecekleriniz: Derin öğrenme, bilgisayarla görme (CV), doğal dil işleme (NLP), görüntü ve metin entegrasyonu.
+Açıklama: Resimleri analiz ederek içeriklerini tanımlayan ve uygun altyazılar üreten bir sistem geliştirin. Bu sistem, görüntüdeki nesneleri, ortamı ve etkinlikleri algılar, ardından anlamlı ve açıklayıcı bir metin oluşturur.
+Gerekli Araçlar: Python, TensorFlow/PyTorch, OpenCV, Hugging Face Transformers, MS COCO veri seti.
+Hedef: Görüntüdeki nesneleri ve özellikleri analiz ederek metin üretme modelini eğitmek ve gerçek zamanlı resim altyazısı oluşturabilen bir sistem geliştirmek.
+
+12. Endüstriyel IoT için Tahmini Bakım
+Öğrenecekleriniz: Nesnelerin İnterneti (IoT), makine öğrenimi, zaman serisi analizi, bakım yönetimi.
+Açıklama: Endüstriyel makinelerden alınan sensör verilerini analiz ederek arıza olasılıklarını tahmin eden ve bakım ihtiyaçlarını önceden belirleyen bir sistem geliştirin. Bu sistem, makinelerin duruş sürelerini azaltarak verimliliği artırmayı hedefler.
+Gerekli Araçlar: Python, scikit-learn, TensorFlow/PyTorch, Pandas, IoT sensör verileri, Prophet, XGBoost.
+Hedef: Endüstriyel IoT sensörlerinden elde edilen verilerle, makine arızalarını önceden tahmin eden bir model oluşturmak ve bakım süreçlerini optimize etmek.
+
+13. Konuşmadan İşaret Dili Çeviri Sistemi
+Öğrenecekleriniz: Derin öğrenme, bilgisayarla görme (CV), doğal dil işleme (NLP), sinyal işleme ve işaret dili analizi.
+Açıklama: Konuşma dilini işaret diline çevirebilen bir sistem geliştirin. Sistem, sesli komutları alarak bunları anlık olarak işaret diline dönüştürür ve görsel bir temsil sunar.
+Gerekli Araçlar: Python, TensorFlow/PyTorch, OpenCV, Hugging Face Transformers, ses işleme kütüphaneleri, işaret dili veri setleri (örneğin, RWTH-PHOENIX-Weather).
+Hedef: Sesli komutları algılayarak anlık işaret diline çevirebilen bir model oluşturmak ve işaret dilinde anlık çeviriler yapabilen bir sistem geliştirmek.
+
+14. Gerçek Zamanlı Trafik Akışı Tahmini ve Kontrolü
+Öğrenecekleriniz: Zaman serisi analizi, makine öğrenimi, IoT, veri akışları ve trafik yönetimi.
+Açıklama: Trafik yoğunluğu verilerini analiz ederek, gelecekteki trafik akışını tahmin eden ve trafik ışıkları gibi altyapıyı optimize eden bir sistem geliştirin. Sistem, trafik akışını izler ve trafik sıkışıklığını en aza indirmek için kontrol stratejileri uygular.
+Gerekli Araçlar: Python, scikit-learn, TensorFlow/PyTorch, Pandas, XGBoost, IoT sensör verileri, OpenCV, Apache Kafka.
+Hedef: Trafik verilerini analiz ederek, gerçek zamanlı trafik tahminleri yapabilen ve trafik akışını optimize eden bir model oluşturmak ve uygulamalı trafik kontrol sistemleri geliştirmek.
 
 ## Ajanlar
 ![YAPAY ZEKA AJANLARI1](https://github.com/user-attachments/assets/b44e9b30-b5d1-4e6b-adb9-e492958e2997)
