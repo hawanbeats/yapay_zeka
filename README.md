@@ -192,8 +192,12 @@
 - [AI For Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
 - [AI Python For Beginners (DeepLearning AI)](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/z57gn/introduction?courseName=ai-python-for-beginners)
 - [Introduction to AI and Machine Learning (Google Cloud)](https://www.cloudskillsboost.google/course_templates/593)
+- [AI Agents For Beginners (Microsoft)](https://microsoft.github.io/ai-agents-for-beginners/)
 - [CS50’s Introduction to Artificial Intelligence with Python (Harvard)](https://cs50.harvard.edu/ai/2024/weeks/0/)
+- [AI Agents (Hugging Face)](https://huggingface.co/learn/agents-course/unit0/introduction)
 - [Elements Of AI](https://course.elementsofai.com/)
+- [Welcome To Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning/lecture/iYR2y/welcome-to-machine-learning)
+- [Functions, Tools and Agents with LangChain (DeepLearning AI)](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/rtwb1/introduction)
 
 ## Kitaplar
 ### Ücretsiz
