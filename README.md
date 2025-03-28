@@ -225,6 +225,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - Trevor Hastie, Robert Tibshirani & Jerome Friedman - The Elements of Statistical Learning: Data Mining, Inference, and Prediction
 - Chip Huyen - Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
 - Noah Gift & Alfredo Deza - Practical MLOps: Operationalizing Machine Learning Models
+- Anil Ananthaswamy - Why Machines Learn: The Elegant Math Behind Modern AI
 
 ## Videolar
 - ['Yapay Zeka' Nedir? - Çok İlginç Örneklerle](https://youtu.be/D0NTkVrWG4Q?si=ONJXjlKbnCU7i7Ru)
