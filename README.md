@@ -193,6 +193,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-string-manipulation-by-building-a-cipher)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/introduction)
 - [Python For Data Science](https://www.scaler.com/topics/course/python-for-data-science/)
+- [Math (Khan Academy)](https://tr.khanacademy.org/math)
 
 ## Kitaplar
 ### Ücretsiz
