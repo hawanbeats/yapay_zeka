@@ -234,8 +234,10 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Deep Reinforcement Learning](https://videolectures.net/videos/rldm2015_silver_reinforcement_learning)
 - [Fei-Fei Li: Resimleri anlamaları için bilgisayarları nasıl eğitiyoruz](https://youtu.be/40riCqvRoMs?si=CpRr6rz_hffhl19E)
 - [Machine Learning with Python and Scikit-Learn – Full Course (FreeCodeCamp)](https://www.youtube.com/watch?v=hDKCxebp88A)
+- [[1hr Talk] Intro to Large Language Models (Andrej Karpathy)](https://youtu.be/zjkBMFhNj_g?si=KLGTRnspf9JuRIya)
 
 ## Kanallar
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [CS Dojo](https://www.youtube.com/@CSDojo)
 - [Analytics Vidhya](https://www.youtube.com/@Analyticsvidhya)
