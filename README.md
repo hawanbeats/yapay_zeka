@@ -220,6 +220,9 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - Viktor Dörfler - Yöneticiler İçin Yapay Zekâ
 - Peter Bruce, Andrew Bruce & Peter Gedeck - Practical Statistics for Data Scientists
 - Marc Peter Deisenroth - Mathematics for Machine Learning
+- Andriy Burkov - The Hundred-Page Machine Learning Book
+- Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems
+- Trevor Hastie, Robert Tibshirani & Jerome Friedman - The Elements of Statistical Learning: Data Mining, Inference, and Prediction
 
 ## Videolar
 - ['Yapay Zeka' Nedir? - Çok İlginç Örneklerle](https://youtu.be/D0NTkVrWG4Q?si=ONJXjlKbnCU7i7Ru)
