@@ -261,6 +261,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Deeplizard](https://www.youtube.com/@deeplizard)
 
 ## Makaleler
+- [Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 - [Makine Öğrenimi Eğlencelidir: 1. Bölüm](https://medium.com/@ozgurs/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)
 - [Makine Öğrenimi Eğlencelidir: 2. Bölüm](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)
 - [Makine Öğrenimi Eğlencelidir: 3. Bölüm](https://medium.com/deep-learning-turkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-3-k%C4%B1s%C4%B1m-2253856ad79c)
