@@ -191,6 +191,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Functions, Tools and Agents with LangChain (DeepLearning AI)](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/rtwb1/introduction)
 - [ChatGPT Prompt Engineering for Developers (DeepLearning AI)](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)
 - [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-string-manipulation-by-building-a-cipher)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/introduction)
 
 ## Kitaplar
 ### Ücretsiz
