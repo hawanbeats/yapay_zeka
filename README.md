@@ -189,7 +189,8 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Elements Of AI](https://course.elementsofai.com/)
 - [Welcome To Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning/lecture/iYR2y/welcome-to-machine-learning)
 - [Functions, Tools and Agents with LangChain (DeepLearning AI)](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/rtwb1/introduction)
-- [ChatGPT Prompt Engineering for Developers (DeepLearning AI)](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction?utm_source=home&utm_medium=course-landing-page&utm_campaign=hero-cta-button&_gl=1*r4bi9s*_ga*MTgxMDgwNTYyMS4xNzM3MjgwNTMy*_ga_PZF1GBS1R1*MTc0Mjk5ODk5OS4yLjAuMTc0Mjk5OTAwMi41Ny4wLjA.)
+- [ChatGPT Prompt Engineering for Developers (DeepLearning AI)](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)
+- [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-string-manipulation-by-building-a-cipher)
 
 ## Kitaplar
 ### Ücretsiz
@@ -267,7 +268,6 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Derin Öğrenme 101](https://veribilimcisi.wordpress.com/derin-ogrenme-101/)
 - [Makine Öğrenmesi Matematiği](https://veribilimcisi.wordpress.com/makine-ogrenmesi-matematigi/)
 - [Implementing Retrieval Augmented Generation (RAG): A Hands-On Guide!](https://generativeai.pub/implementing-retrieval-augmented-generation-rag-a-hands-on-guide-aefa061b2dcc)
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
   
 ## Proje
 1. İris Çiçeği Sınıflandırması
