@@ -217,12 +217,14 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 ### Ücretli
 - Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak
 - Harvard Business Review - Yapay Zekâ: Dijital Dönüşüm
-- Viktor Dörfler - Yöneticiler İçin Yapay Zekâ
+- Viktor Dörfler - What Every CEO Should Know About AI
 - Peter Bruce, Andrew Bruce & Peter Gedeck - Practical Statistics for Data Scientists
 - Marc Peter Deisenroth - Mathematics for Machine Learning
 - Andriy Burkov - The Hundred-Page Machine Learning Book
 - Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems
 - Trevor Hastie, Robert Tibshirani & Jerome Friedman - The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+- Chip Huyen - Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
+- Noah Gift & Alfredo Deza - Practical MLOps: Operationalizing Machine Learning Models
 
 ## Videolar
 - ['Yapay Zeka' Nedir? - Çok İlginç Örneklerle](https://youtu.be/D0NTkVrWG4Q?si=ONJXjlKbnCU7i7Ru)
@@ -235,6 +237,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Fei-Fei Li: Resimleri anlamaları için bilgisayarları nasıl eğitiyoruz](https://youtu.be/40riCqvRoMs?si=CpRr6rz_hffhl19E)
 - [Machine Learning with Python and Scikit-Learn – Full Course (FreeCodeCamp)](https://www.youtube.com/watch?v=hDKCxebp88A)
 - [[1hr Talk] Intro to Large Language Models (Andrej Karpathy)](https://youtu.be/zjkBMFhNj_g?si=KLGTRnspf9JuRIya)
+- [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 ## Kanallar
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
@@ -280,6 +283,12 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Derin Öğrenme 101](https://veribilimcisi.wordpress.com/derin-ogrenme-101/)
 - [Makine Öğrenmesi Matematiği](https://veribilimcisi.wordpress.com/makine-ogrenmesi-matematigi/)
 - [Implementing Retrieval Augmented Generation (RAG): A Hands-On Guide!](https://generativeai.pub/implementing-retrieval-augmented-generation-rag-a-hands-on-guide-aefa061b2dcc)
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
+- [Induction of decision trees](https://link.springer.com/article/10.1007/BF00116251)
+- [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038)
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
+- [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/pdf/1409.1556)
   
 ## Proje
 1. İris Çiçeği Sınıflandırması
