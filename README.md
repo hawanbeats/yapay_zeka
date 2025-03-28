@@ -212,6 +212,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Stanford CS230 Deep Learning Notes](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
 - [Amazon - Machine Learning Developer Guide](https://docs.aws.amazon.com/pdfs/machine-learning/latest/dg/machinelearning-dg.pdf)
 - [Top 100 Machine Learning Interview Questions Answers](https://github.com/user-attachments/files/19470360/Top_100_Machine_Learning_Interview_Questions_Answers_Cheatshee.pdf)
+- [Data Science Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)
 
 ### Ücretli
 - Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak
