@@ -230,6 +230,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Basics of Computational Reinforcement Learning](https://videolectures.net/videos/rldm2015_littman_computational_reinforcement)
 - [Deep Reinforcement Learning](https://videolectures.net/videos/rldm2015_silver_reinforcement_learning)
 - [Fei-Fei Li: Resimleri anlamaları için bilgisayarları nasıl eğitiyoruz](https://youtu.be/40riCqvRoMs?si=CpRr6rz_hffhl19E)
+- [Machine Learning with Python and Scikit-Learn – Full Course (FreeCodeCamp)](https://www.youtube.com/watch?v=hDKCxebp88A)
 
 ## Kanallar
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
