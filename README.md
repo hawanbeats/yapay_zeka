@@ -192,6 +192,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [ChatGPT Prompt Engineering for Developers (DeepLearning AI)](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)
 - [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-string-manipulation-by-building-a-cipher)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/introduction)
+- [Python For Data Science](https://www.scaler.com/topics/course/python-for-data-science/)
 
 ## Kitaplar
 ### Ücretsiz
