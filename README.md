@@ -218,6 +218,8 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak
 - Harvard Business Review - Yapay Zekâ: Dijital Dönüşüm
 - Viktor Dörfler - Yöneticiler İçin Yapay Zekâ
+- Peter Bruce, Andrew Bruce & Peter Gedeck - Practical Statistics for Data Scientists
+- Marc Peter Deisenroth - Mathematics for Machine Learning
 
 ## Videolar
 - ['Yapay Zeka' Nedir? - Çok İlginç Örneklerle](https://youtu.be/D0NTkVrWG4Q?si=ONJXjlKbnCU7i7Ru)
