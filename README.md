@@ -225,6 +225,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Christian Kästner - Machine Learning in Production](https://mlip-cmu.github.io/book/)
 - [Christoph Molnar - Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Solon Barocas - Fairness and Machine Learning](https://fairmlbook.org/pdf/fairmlbook.pdf)
+- [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 ### Ücretli
 - Max Tegmark - Yaşam 3.0: Yapay Zekâ Çağında İnsan Olmak
