@@ -195,6 +195,7 @@ Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyed
 - [Python For Data Science](https://www.scaler.com/topics/course/python-for-data-science/)
 - [Math (Khan Academy)](https://tr.khanacademy.org/math)
 - [Machine Learning Specialization Package](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Introduction to Data Science with Python](https://pll.harvard.edu/course/introduction-data-science-python)
 
 ## Kitaplar
 ### Ücretsiz
