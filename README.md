@@ -1,5 +1,12 @@
 # Yapay Zeka
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hawanbeats.horse-racing-game)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hawanbeats.yapay_zeka)
+![Stars](https://img.shields.io/github/stars/hawanbeats/yapay_zeka?style=social)
+![Issues](https://img.shields.io/github/issues/hawanbeats/yapay_zeka)
+![Contributors](https://img.shields.io/github/contributors/hawanbeats/yapay_zeka)
+![Repo Size](https://img.shields.io/github/repo-size/hawanbeats/yapay_zeka)
+![Top Language](https://img.shields.io/github/languages/top/hawanbeats/yapay_zeka)
+![Status](https://img.shields.io/badge/status-development-orange)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ## Hakkında 
 Bu repository, yapay zeka (AI) ile ilgili kapsamlı bir kaynak koleksiyonudur. AI öğrenmek isteyenler için faydalı araçlar, kitaplar, videolar ve proje fikirleri gibi çeşitli içerikler sunulmaktadır. Ayrıca, AI kavramları, dalları ve güncel gelişmeler hakkında bilgi edinmek isteyenler için derlenmiş yazılar ve makaleler de mevcuttur.
 Burada paylaşılan kaynaklar, hem AI ile yeni tanışanlar hem de ileri seviyede bilgi sahibi olanlar için yararlı olacak şekilde sıralanmıştır. GitHub repository'si, AI araştırma ve geliştirme sürecini kolaylaştırmak ve bu alandaki bilgiye kolay erişimi sağlamak amacıyla düzenlenmiştir.
