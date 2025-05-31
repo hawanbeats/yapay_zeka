@@ -4,7 +4,6 @@
 ![Issues](https://img.shields.io/github/issues/hawanbeats/yapay_zeka)
 ![Contributors](https://img.shields.io/github/contributors/hawanbeats/yapay_zeka)
 ![Repo Size](https://img.shields.io/github/repo-size/hawanbeats/yapay_zeka)
-![Top Language](https://img.shields.io/github/languages/top/hawanbeats/yapay_zeka)
 ![Status](https://img.shields.io/badge/status-development-orange)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ## Hakkında 
